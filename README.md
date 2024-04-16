@@ -31,3 +31,7 @@ git push --dleete origin nomeBranch
 ~~~
 
 Para apagar um branch apagá-lo localmente (1º comando) e depois propagar a deleção para o repositório remoto (2º comando).
+
+~~~bash
+git log --graph --oneline
+~~~
